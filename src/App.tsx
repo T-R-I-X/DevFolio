@@ -2,7 +2,7 @@
 import { Helmet } from "react-helmet";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Github, ExternalLink } from "lucide-react";
+import {  ExternalLink } from "lucide-react";
 import { motion } from "framer-motion";
 
 const projects = [
